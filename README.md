@@ -1,2 +1,2 @@
-PJones.SC.SharedSource.LayoutDocumenter
+PJones.SC.LayoutDocumenter
 =======================================
